@@ -1,0 +1,17 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Petra
+
+* I am a member of the Duplais lab and focus my research on the honey bee/varroa mite study system.
+
+* Some of my favorite ways to spend free time include spending time in nature and thrifting.
+
+* My college mascot is a spider and I am TAing "Spider Biology" this semester. 
+
+* I am an ice cream fanatic! 

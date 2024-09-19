@@ -1,0 +1,16 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Website Building Practice Assignment
+
+My name is Petra and this is the link to my Github account:
+
+
+My collaborator is Faith and this is the link to Faith's Github account:
+
+![We will "Bee" happy when we are confident R and Github users](https://ctvnews.ca/content/dam/ctvnews/en/images/2024/4/7/mona-from-_nanalan-speaks-with-ctv-news-1-6837139.jpg)
