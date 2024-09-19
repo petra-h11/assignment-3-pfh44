@@ -13,7 +13,7 @@ title: "Our collaborative website for assignment 3"
 output_dir: "."
 output:
   html_document:
-    theme: cyborg
+    theme: cerulean
     highlight: textmate
     toc: true 
     toc_float: true
