@@ -1,11 +1,7 @@
+name: "Fall 2024 Semester""
 output_dir: "."
-output:
-  html_document:
-    theme: cerulean
-    highlight: textmate
-    toc: true 
-    toc_float: true
-navbar: "PAGES"
+navbar: 
+title: "Our collaborative website for assignment 3"
   left:
     - text: "Home"
       href: index.html
@@ -14,4 +10,10 @@ navbar: "PAGES"
     - text: "Faith"
       href: faith.html  
       
-      
+output_dir: "."
+output:
+  html_document:
+    theme: cyborg
+    highlight: textmate
+    toc: true 
+    toc_float: true
