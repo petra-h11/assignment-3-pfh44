@@ -1,7 +1,6 @@
 name: "Fall 2024 Semester""
 output_dir: "."
 navbar: 
-title: "Mid-September Assignment"
   left:
     - text: "Home"
       href: index.html
@@ -12,10 +11,3 @@ title: "Mid-September Assignment"
     - text: "Ghost"
       href: ghost.html
       
-output_dir: "."
-output:
-  html_document:
-    theme: darkly
-    highlight: textmate
-    toc: true 
-    toc_float: true
