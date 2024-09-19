@@ -1,4 +1,10 @@
 output_dir: "."
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true 
+    toc_float: true
 navbar:
   left:
     - text: "Home"
@@ -7,3 +13,5 @@ navbar:
       href: petra.html
     - text: "Faith"
       href: faith.html  
+      
+      
