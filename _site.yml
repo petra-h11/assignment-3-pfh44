@@ -1,4 +1,4 @@
-name: "Fall 2024 Semester""
+name: "Fall 2024 Semester"
 output_dir: "."
 navbar: 
   left:
@@ -11,3 +11,9 @@ navbar:
     - text: "Ghost"
       href: ghost.html
       
+  output:
+  html_document:
+    theme: darkly
+    highlight: textmate
+    toc: true 
+    toc_float: true 
