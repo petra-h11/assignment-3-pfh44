@@ -9,6 +9,8 @@ title: "Mid-September Assignment"
       href: petra.html
     - text: "Faith"
       href: faith.html  
+    - text: "Ghost"
+      href: ghost.html
       
 output_dir: "."
 output:
