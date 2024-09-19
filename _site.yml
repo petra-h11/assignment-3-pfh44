@@ -1,0 +1,9 @@
+output_dir: "assignment-3-pfh44"
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Petra"
+      href: petra.html
+    - text: "Faith"
+      href: faith.html  
