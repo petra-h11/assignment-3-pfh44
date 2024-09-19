@@ -5,7 +5,7 @@ output:
     highlight: textmate
     toc: true 
     toc_float: true
-navbar:
+navbar: "PAGES"
   left:
     - text: "Home"
       href: index.html
