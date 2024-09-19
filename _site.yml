@@ -1,7 +1,7 @@
 name: "Fall 2024 Semester""
 output_dir: "."
 navbar: 
-title: "Our collaborative website for assignment 3"
+title: "Mid-September Assignment"
   left:
     - text: "Home"
       href: index.html
@@ -13,7 +13,7 @@ title: "Our collaborative website for assignment 3"
 output_dir: "."
 output:
   html_document:
-    theme: cerulean
+    theme: darkly
     highlight: textmate
     toc: true 
     toc_float: true

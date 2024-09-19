@@ -6,7 +6,7 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Website Building Practice Assignment
+## Our collaborative website for assignment 3
 
 My name is Petra and this is the link to my Github account:https://github.com/petra-h11
 
