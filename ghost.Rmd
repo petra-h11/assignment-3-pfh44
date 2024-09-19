@@ -7,4 +7,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## BOO!
+
+
 ![I'm the happy ghost who also wants to collaborate](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG6H-7uqp-A_3gNtkPUvprx6uOLHL4wuDw6A&s)
